@@ -31,7 +31,7 @@ Example Playbook
   vars:
     ubuntu_apt_mirror: http://mirrors.aliyuncs.com/ubuntu
   roles:
-     - qianka.ubuntu-common-role
+     - qianka.ubuntu-common
 ```
 
 License
